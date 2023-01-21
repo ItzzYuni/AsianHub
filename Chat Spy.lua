@@ -1,5 +1,3 @@
--- This is not mine, unsure who made it but i didn't create this
-
 -- // Initialise
 --if (getgenv().ChatSpy) then return getgenv().ChatSpy; end;
 repeat wait() until game:GetService("ContentProvider").RequestQueueSize == 0;
